@@ -1,0 +1,1 @@
+// This file is unused in the vanilla JS version.
