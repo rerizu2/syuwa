@@ -1,0 +1,5 @@
+{
+  "name": "SignSplitter AI",
+  "description": "An AI-powered tool that intelligently segments Japanese sentences into individual sign language concepts/words for easier translation and practice.",
+  "requestFramePermissions": []
+}
