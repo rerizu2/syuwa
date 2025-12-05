@@ -1,0 +1,7 @@
+{
+  "name": "JSL Semicolon - 手話翻訳・単語分割",
+  "description": "日本語の文章を手話の文法や単語の区切りに合わせて分割・翻訳するAIアシスタントツールです。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
